@@ -1,6 +1,3 @@
-# Author:电子科技大学刘俊凯、陈昂
-# https://github.com/JKLinUESTC/License-Plate-Recognization-Pytorch
-
 from data.load_data import CHARS, CHARS_DICT, LPRDataLoader
 from model.LPRNet import build_lprnet
 # import torch.backends.cudnn as cudnn

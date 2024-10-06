@@ -1,5 +1,3 @@
-# Author:电子科技大学刘俊凯、陈昂
-# https://github.com/JKLinUESTC/License-Plate-Recognization-Pytorch
 import torch.nn as nn
 import torch
 
